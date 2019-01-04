@@ -17,6 +17,10 @@ button:hover {
 }
 
 button:active {
-	color: red;
-	background-color: yellow;	
+	color: white;
+	background-color: blue;
+}
+
+button:focus {
+	outline: none;
 }
