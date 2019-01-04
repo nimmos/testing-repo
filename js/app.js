@@ -31,11 +31,11 @@ let years_of_minors = _(ages)
 	.value();
 years_of_minors.sort( function (a,b) { return a - b; });
 
-// console.log(ages);
-// console.log(minors);
-// console.log(minor_ages);
-// console.log(dobs);
-// console.log(years_of_minors);
+console.log(ages);
+console.log(minors);
+console.log(minor_ages);
+console.log(dobs);
+console.log(years_of_minors);
 
 let names = ['Alice','Reimu','Claire','Marina','Lucía','Beatrice','Solanna','Marianne'];
 
