@@ -6,7 +6,9 @@
 </head>
 <body>
 
-	<div id="test"></div>
+	<div id="test">
+		<button id="btn-sub">Do something</button>
+	</div>
 
 </body>
 <script src="./js/app.js"></script>
