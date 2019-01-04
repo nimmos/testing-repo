@@ -1,0 +1,16 @@
+button {
+	color: blue;
+	background-color: transparent;
+	border: solid 1px grey;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: silver;
+}
+
+button:active {
+	color: red;
+	background-color: yellow;	
+}
